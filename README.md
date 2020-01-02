@@ -1,2 +1,2 @@
 # Python
-#Programmer : Reza Alie
+#Programmer : Reza Alie & Ahmad Shirzadi
